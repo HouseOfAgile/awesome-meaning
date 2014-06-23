@@ -3,7 +3,7 @@ awesome-meaning
 
 Font awesome general meaning relation between icons and meanings
 
-This repository is mainly used to find some inspiration when searching for the right icon for an action
+This repository is mainly used to find some inspiration when searching for the right icon for an action. When looking for a standard icon over all the existing icon set, having a look to [Glyph Search](http://glyphsearch.com/) could make sense
 
 ## General actions
 ### Help box
@@ -20,7 +20,7 @@ Suppose you want to have a help box, you could `fa fa-info-circle-o` or a combin
 </span>
 ```
 
-###Partner account of Company account
+###Partner Account or Company account
 
 Depending on type of business you can use some of 
 
