@@ -3,11 +3,11 @@ awesome-meaning
 
 Font awesome general meaning relation between icons and meanings
 
-This repository is mainly used to ind some inspiration when looking for the right icon for an action
+This repository is mainly used to find some inspiration when searching for the right icon for an action
 
 ## General actions
 ### Help box
-Suppose you want to have a help box, you could fa fa-info-circle-o or a combinaison of fa fa-info + fa-square-o
+Suppose you want to have a help box, you could `fa fa-info-circle-o` or a combinaison of `fa fa-info` + `fa-square-o`
 ```
 <i class="fa fa-info-circle></i>
 
