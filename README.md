@@ -29,3 +29,9 @@ For a school institution `fa-graduation-cap` could makes sense or `fa-university
 For a standard institution (ngo, association) use `fa-institution`
 
 For a another type of company, `fa-building` could makes sense
+
+## Standard Actions
+### Impersonating / Browsing privately
+
+* **fa-user**
+* **fa-heromask** : [not yet available] See https://github.com/FortAwesome/Font-Awesissuesmask/10358
